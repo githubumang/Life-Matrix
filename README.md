@@ -1,7 +1,8 @@
+Deploy Link: https://githubumang.github.io/Life-Matrix
+
 Life Matrix is a service to manage to prioritize our tasks according to the Eisenhower matrix. It will help people to prioritize their work.
 **Technoloy used:** ReactJS, HTML, CSS, NodeJS, ExpressJS, MOngoDB
 
-**It is in Progress**
 
 ![image](https://user-images.githubusercontent.com/113431853/229042703-102cffc5-8235-4cfc-a80e-bf349849a55d.png)
 ![image](https://user-images.githubusercontent.com/113431853/229042817-1a2dc3a4-fbfb-4be8-9fb3-aae1ef6cf673.png)
