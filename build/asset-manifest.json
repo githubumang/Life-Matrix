@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Life-Matrix/static/css/main.4a9da6cf.css",
+    "main.js": "/Life-Matrix/static/js/main.aa4571cd.js",
+    "static/js/787.ad08b3b3.chunk.js": "/Life-Matrix/static/js/787.ad08b3b3.chunk.js",
+    "static/media/contactushover.gif": "/Life-Matrix/static/media/contactushover.d5634145a0bbc8cb7356.gif",
+    "static/media/scheduletaskhover.gif": "/Life-Matrix/static/media/scheduletaskhover.d5d15f6b902d1b40b558.gif",
+    "static/media/graphhover.gif": "/Life-Matrix/static/media/graphhover.17258c563eeda04bcdbe.gif",
+    "static/media/profilehover.gif": "/Life-Matrix/static/media/profilehover.59b03b1977e649175138.gif",
+    "static/media/abouthover.gif": "/Life-Matrix/static/media/abouthover.a03c739af08c07a9605c.gif",
+    "static/media/daily task hover.gif": "/Life-Matrix/static/media/daily task hover.db79f24f5b224b25a690.gif",
+    "static/media/scheduletask.png": "/Life-Matrix/static/media/scheduletask.9b4f548d0abd611a20f2.png",
+    "static/media/contact us.png": "/Life-Matrix/static/media/contact us.3e3fedfab26f95bef479.png",
+    "static/media/profile1.png": "/Life-Matrix/static/media/profile1.b1a7c3b09bf9037ee405.png",
+    "static/media/daily task.png": "/Life-Matrix/static/media/daily task.3a91e35c53fe11f08280.png",
+    "static/media/matrix.png": "/Life-Matrix/static/media/matrix.2b07976adccc38f5c9ef.png",
+    "static/media/graph.png": "/Life-Matrix/static/media/graph.7adb9aa5113d2f48bae3.png",
+    "static/media/about.png": "/Life-Matrix/static/media/about.03ebc4dd8a0eb64672ac.png",
+    "static/media/editpen.png": "/Life-Matrix/static/media/editpen.452c7b5f7af60dc2f27b.png",
+    "index.html": "/Life-Matrix/index.html",
+    "main.4a9da6cf.css.map": "/Life-Matrix/static/css/main.4a9da6cf.css.map",
+    "main.aa4571cd.js.map": "/Life-Matrix/static/js/main.aa4571cd.js.map",
+    "787.ad08b3b3.chunk.js.map": "/Life-Matrix/static/js/787.ad08b3b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9da6cf.css",
+    "static/js/main.aa4571cd.js"
+  ]
+}
