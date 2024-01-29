@@ -28,13 +28,13 @@ export const Home = (props) => {
   return (
     <>
     <Header title="Life-Matrix"/>
-<NavLink to='profile' ><img src={showprofile}  alt='notepage' className='homeoption'  onMouseEnter={() => setprofile(profilehover)} onMouseLeave={() => setprofile(profile1)}/></NavLink>
-<NavLink to='schedule-task'><img src={showschedule}  alt='notepage' className='homeoption'  onMouseEnter={() => setschedule(scheduletaskhover)} onMouseLeave={() => setschedule(scheduletask)}/></NavLink>
-<NavLink to='daily-task'><img src={showdailytask}  alt='notepage' className='homeoption'  onMouseEnter={() => setdailytask(dailytaskhover)} onMouseLeave={() => setdailytask(dailytask)}/></NavLink>
-<NavLink to='graph'><img src={showgraph}  alt='notepage' className='homeoption' onMouseEnter={() => setGraph(graphhover)} onMouseLeave={() => setGraph(graph)}/></NavLink>
-<NavLink to='matrix'><img src={matrix}  alt='notepage' className='homeoption'/></NavLink>
-<NavLink to='contact-us'><img src={showcontact}  alt='notepage' className='homeoption'  onMouseEnter={() => setcontact(contactushover)} onMouseLeave={() => setcontact(contactus)}/></NavLink>
-<NavLink to='about'><img src={showabout}  alt='notepage' className='homeoption'  onMouseEnter={() => setabout(abouthover)} onMouseLeave={() => setabout(about)}/></NavLink>
+<NavLink to='/' ><img src={showprofile}  alt='notepage' className='homeoption'  onMouseEnter={() => setprofile(profilehover)} onMouseLeave={() => setprofile(profile1)}/></NavLink>
+<NavLink to='/schedule-task'><img src={showschedule}  alt='notepage' className='homeoption'  onMouseEnter={() => setschedule(scheduletaskhover)} onMouseLeave={() => setschedule(scheduletask)}/></NavLink>
+<NavLink to='/daily-task'><img src={showdailytask}  alt='notepage' className='homeoption'  onMouseEnter={() => setdailytask(dailytaskhover)} onMouseLeave={() => setdailytask(dailytask)}/></NavLink>
+<NavLink to='/graph'><img src={showgraph}  alt='notepage' className='homeoption' onMouseEnter={() => setGraph(graphhover)} onMouseLeave={() => setGraph(graph)}/></NavLink>
+<NavLink to='/matrix'><img src={matrix}  alt='notepage' className='homeoption'/></NavLink>
+<NavLink to='/contact-us'><img src={showcontact}  alt='notepage' className='homeoption'  onMouseEnter={() => setcontact(contactushover)} onMouseLeave={() => setcontact(contactus)}/></NavLink>
+<NavLink to='/about'><img src={showabout}  alt='notepage' className='homeoption'  onMouseEnter={() => setabout(abouthover)} onMouseLeave={() => setabout(about)}/></NavLink>
 <Footer size={props.size}/>
     </>
   )

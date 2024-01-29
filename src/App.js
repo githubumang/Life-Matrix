@@ -1,14 +1,14 @@
 import React from 'react'
 import './App.css';
-import Header from "./My-component/Header"  // Use rfs
-import {Footer} from "./My-component/Footer"   //Use rafc
+// import Header from "./My-component/Header"  // Use rfs
+// import {Footer} from "./My-component/Footer"   //Use rafc
 import { ScheduleTask } from './My-component/ScheduleTask';
 import { Home } from './My-component/Home';
 import { DailyTask } from './My-component/DailyTask';
 import { Graph } from './My-component/Graph';
 import { Matrix } from './My-component/Matrix';
 import { ContactUs } from './My-component/ContactUs';
-import {IU} from './My-component/matrix/IU';
+// import {IU} from './My-component/matrix/IU';
 
 
 import {About} from "./My-component/About"

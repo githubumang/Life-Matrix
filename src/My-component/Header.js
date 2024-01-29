@@ -17,25 +17,25 @@ export default function Header(props) { //props is use to pass javascript object
         {/* Header option */}
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <NavLink className="nav-link active" aria-current="page" to="../">Home</NavLink>
+            <NavLink className="nav-link active" aria-current="page" to="/">Home</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../schedule-task">Schedule-Task</NavLink>
+            <NavLink className="nav-link" to="/schedule-task">Schedule-Task</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../daily-task">Daily-Task</NavLink>
+            <NavLink className="nav-link" to="/daily-task">Daily-Task</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../graph">Graph</NavLink>
+            <NavLink className="nav-link" to="/graph">Graph</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../matrix">Matrix</NavLink>
+            <NavLink className="nav-link" to="/matrix">Matrix</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../contact-us">Contact-us</NavLink>
+            <NavLink className="nav-link" to="/contact-us">Contact-us</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="../about">About</NavLink>
+            <NavLink className="nav-link" to="/about">About</NavLink>
           </li>
         </ul>
 
@@ -43,8 +43,8 @@ export default function Header(props) { //props is use to pass javascript object
 
         {/* Search bar */}
         <form className="d-flex" role="search">
-          <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-          <button className="btn btn-outline-success" type="submit">Search</button>
+          {/* <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+          <button className="btn btn-outline-success" type="submit">Search</button> */}
         </form>
       </div>
     </div>
